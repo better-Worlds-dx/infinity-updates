@@ -5,6 +5,6 @@
   "apk_url": "https://github.com/better-Worlds-dx/infinity-updates/releases/download/v1.2.3/InfinityBrowser-1.2.3.apk",
   "sha256": "",
   "notes": "নতুন মেনু, আপডেট সিস্টেম পরীক্ষা",
-  "disabled": false,
-  "disabled_message": ""
+  "disabled": true,
+  "disabled_message": "এই ব্রাউজার সাময়িকভাবে বন্ধ আছে। পরে আবার চেষ্টা করুন।"
 }
